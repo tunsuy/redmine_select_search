@@ -10,7 +10,7 @@
 * 将 `chosen.jquery.js` 文件添加到 `./apps/redmine/htdocs/public/javascripts/`
 * 将 `chosen.css、chosen-sprite.png` 添加到 `./apps/redmine/htdocs/public/stylesheets/`  
 
-###3、引入js文件
+### 3、引入js文件
 * 编辑—— `./apps/redmine/htdocs/app/helpers/application_helper.rb`
 * 在下面方法处加入：
 ```js
